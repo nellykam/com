@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width:100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/opiman2.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(opiman2.jpg);
     background-position: center;
     background-size:contain;
     position: relative;
@@ -118,7 +118,7 @@ nav .fa{
 .header-about{
     min-height: 50vh;
     width:100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/math4.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(math4.jpg);
     background-position: center;
     background-size:contain;
     position: relative;
@@ -180,7 +180,7 @@ h3{
 .header-project{
     min-height: 50vh;
     width:100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/programming.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(programming.jpg);
     background-position: center;
     background-size:contain;
     position: relative;
@@ -216,7 +216,7 @@ h1{
 .header-contact{
     min-height: 75vh;
     width:100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/reach.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(reach.jpg);
     background-position: center;
     background-size:contain;
     position: relative;
